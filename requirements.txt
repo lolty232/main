@@ -1,0 +1,3 @@
+disnake
+requests>=2.15,<3
+discord
